@@ -15,6 +15,7 @@ pipeline{
             steps{
                 echo 'Thanks for using Jenkins pipeline'
             }
-        }        
-    }
+        }
+        
+    }
 }
